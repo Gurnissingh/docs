@@ -16,6 +16,5 @@ children:
   - /managing-user-account-settings
   - /managing-your-personal-account
   - /managing-email-preferences
-  - /managing-access-to-your-personal-repositories
   - /managing-your-membership-in-organizations
 ---
